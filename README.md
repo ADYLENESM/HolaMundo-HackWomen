@@ -26,6 +26,6 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Ver series 
 
 * Adylene Sarmiento 🌙
-- Me gusta dibujar 🎨
+- Me gusta dibujar
 - Nadar
 - Ver kdramas 
